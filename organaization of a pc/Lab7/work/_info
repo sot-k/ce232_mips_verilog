@@ -1,0 +1,266 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7
+vALU
+Z1 !s110 1480009534
+!i10b 1
+!s100 Y;o:>S`^]Q[GiH97fzJo=0
+IEDNdZEbBi<TW?X?S:U>P42
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1480009523
+Z4 8C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/library.v
+Z5 FC:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/library.v
+Z6 L0 11
+Z7 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z8 !s108 1480009534.000000
+Z9 !s107 constants.h|C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/library.v|
+Z10 !s90 -reportprogress|30|-work|work|C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/library.v|
+!s101 -O0
+!i113 1
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+vcontrol_alu
+Z12 !s110 1480009533
+!i10b 1
+!s100 ?<AX2BP7B7?cWFdS0Pio;2
+IGRc6P[DoM>nE5khC<CfTZ0
+R2
+R0
+Z13 w1479927020
+Z14 8C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/control.v
+Z15 FC:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/control.v
+L0 181
+R7
+r1
+!s85 0
+31
+Z16 !s108 1480009533.000000
+Z17 !s107 constants.h|C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/control.v|
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/control.v|
+!s101 -O0
+!i113 1
+R11
+vcontrol_bypass_ex
+R12
+!i10b 1
+!s100 2DZDmToIB[0]9kGIg3BDg3
+II21?GdniJ;LPF@BY7H6IG1
+R2
+R0
+R13
+R14
+R15
+L0 128
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+!i113 1
+R11
+vcontrol_main
+R12
+!i10b 1
+!s100 SLUWjd@8Dgn8Wf^g:i84=3
+IE1P?C6]U3d5Oh0d2KD`KL0
+R2
+R0
+R13
+R14
+R15
+L0 4
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+!i113 1
+R11
+vcpu
+R12
+!i10b 1
+!s100 LccU:H1z>TZOeh0lakib70
+ImeoR`c0:cfm2o>9FbZ:O^0
+R2
+R0
+w1480005707
+8C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/cpu.v
+FC:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/cpu.v
+L0 5
+R7
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/cpu.v|
+!s90 -reportprogress|300|-work|work|C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/cpu.v|
+!s101 -O0
+!i113 1
+R11
+vcpu_tb
+R1
+!i10b 1
+!s100 8j81VAGd86CczTj:hNPHT0
+If?KnzN_W[:3EB;=Em6=XM0
+R2
+R0
+Z19 w1479581623
+Z20 8C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/testbench.v
+Z21 FC:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/testbench.v
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z22 !s107 constants.h|C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/testbench.v|
+Z23 !s90 -reportprogress|30|-work|work|C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/testbench.v|
+!s101 -O0
+!i113 1
+R11
+vHazard_Detection_Unit
+R12
+!i10b 1
+!s100 4_>ZDf8?8=XmB@hggzB>b1
+IL0nBNeHhCfFV^97M>BNIF1
+R2
+R0
+R13
+R14
+R15
+L0 158
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+!i113 1
+R11
+n@hazard_@detection_@unit
+vinstr2str
+R1
+!i10b 1
+!s100 zLhM0IC4ORA1Q08O0i<e^1
+IHAVaT4HkTMiGPzf2@<Whb2
+R2
+R0
+R19
+R20
+R21
+L0 209
+R7
+r1
+!s85 0
+31
+R8
+R22
+R23
+!s101 -O0
+!i113 1
+R11
+vlab6_tester
+R12
+!i10b 1
+!s100 5=kKNLnoCWC>^eTR;[GZk2
+IhWWNgKP11PVemBk:U`=3W0
+R2
+R0
+w1479834912
+8C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/lab6_tester.v
+FC:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/lab6_tester.v
+L0 4
+R7
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/lab6_tester.v|
+!s90 -reportprogress|300|-work|work|C:/Users/vasil/Desktop/Computer Organization and Design/VERILOG/Lab7/lab6_tester.v|
+!s101 -O0
+!i113 1
+R11
+vMemory
+R1
+!i10b 1
+!s100 S4Uf`@>S^>b=CSJ[7Zk]Z0
+I7LYNohR4X__F0OCBg]7jY2
+R2
+R0
+R3
+R4
+R5
+L0 36
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+n@memory
+vRegFile
+R1
+!i10b 1
+!s100 8E]ABNdbM]CnSzinhXR=W3
+IbO5GOiPYXECOCKC@B;U@i1
+R2
+R0
+R3
+R4
+R5
+L0 69
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+n@reg@file
+vstring_manipulation
+R1
+!i10b 1
+!s100 S`i3Mze1==gQSaED1WFG`1
+IWLIWVXY7g[fR0=aRE41eD2
+R2
+R0
+R19
+R20
+R21
+L0 155
+R7
+r1
+!s85 0
+31
+R8
+R22
+R23
+!s101 -O0
+!i113 1
+R11
